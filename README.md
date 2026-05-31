@@ -1,7 +1,7 @@
 # WhatsApp Baileys
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/z4phdev/client/refs/heads/main/thumbnail.png" alt="Thumbnail" />
+  <img src="https://uploader.merllerm.tech/permadrop/1943-053-1jun2026.jpg" alt="Thumbnail" />
 </p>
 
 WhatsApp Baileys is an open-source library designed to help developers build automation solutions and integrations with WhatsApp efficiently and directly. Using websocket technology without the need for a browser, this library supports a wide range of features such as message management, chat handling, group administration, as well as interactive messages and action buttons for a more dynamic user experience.
@@ -113,7 +113,7 @@ await sock.sendMessage(jid, {
             degreesLongitude: 0, 
             name: "rowrrrr" 
         }, 
-        joinLink: "https://call.whatsapp.com/video/jayhankuuh", 
+        joinLink: "https://call.whatsapp.com/video/merlinus", 
         startTime: "1763019000", 
         endTime: "1763026200", 
         extraGuestsAllowed: false 
@@ -150,7 +150,7 @@ await sock.sendMessage(jid, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @jayhankuuh ",
+        footer: "telegram: @merlinussss",
         buttons: [
             {
                 name: "cta_copy",
@@ -173,13 +173,13 @@ await sock.sendMessage(jid, {
     interactiveMessage: {      
         header: "Hello World",
         title: "Hello World",      
-        footer: "telegram: @jayhankuuh",      
+        footer: "telegram: @merlinussss",      
         image: { url: "https://example.com/image.jpg" },      
         nativeFlowMessage: {        
             messageParamsJson: JSON.stringify({          
                 limited_time_offer: {            
                     text: "idk hummmm?",            
-                    url: "https://t.me/jayhankuuh",            
+                    url: "https://t.me/merlinussss",            
                     copy_code: "z4phdev",            
                     expiration_time: Date.now() * 999          
                 },          
@@ -192,7 +192,7 @@ await sock.sendMessage(jid, {
                 tap_target_configuration: {            
                     title: " X ",            
                     description: "bomboclard",            
-                    canonical_url: "https://t.me/jayhankuuh",            
+                    canonical_url: "https://t.me/merlinussss",            
                     domain: "shop.example.com",            
                     button_index: 0          
                 }        
@@ -220,7 +220,7 @@ await sock.sendMessage(jid, {
                                 highlight_label: "label",                  
                                 rows: [                    
                                     {                      
-                                        title: "@jayhankuuh",                      
+                                        title: "@merlinussss",                      
                                         description: "love you",                      
                                         id: "row_2"                    
                                     }                  
@@ -252,7 +252,7 @@ await sock.sendMessage(jid, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @jayhankuuh",
+        footer: "telegram: @merlinussss",
         image: { url: "https://example.com/image.jpg" },
         buttons: [
             {
@@ -305,10 +305,10 @@ await sock.sendMessage(jid, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @jayhankuuh",
+        footer: "telegram: @merlinussss",
         document: fs.readFileSync("./package.json"),
         mimetype: "application/pdf",
-        fileName: "jayhankuuh.pdf",
+        fileName: "lynn.pdf",
         jpegThumbnail: fs.readFileSync("./document.jpeg"),
         contextInfo: {
             mentionedJid: [jid],
@@ -321,17 +321,17 @@ await sock.sendMessage(jid, {
             mediaType: 3,
             thumbnailUrl: "https://example.com/image.jpg",
             mediaUrl: " X ",
-            sourceUrl: "https://t.me/jayhankuuh",
+            sourceUrl: "https://t.me/merlinussss",
             showAdAttribution: true,
-            renderLargerThumbnail: false         
+            renderLargerThumbnail: false
         },
         buttons: [
             {
                 name: "cta_url",
                 buttonParamsJson: JSON.stringify({
                     display_text: "Telegram",
-                    url: "https://t.me/jayhankuuh",
-                    merchant_url: "https://t.me/jayhankuuh"
+                    url: "https://t.me/kaitlynid",
+                    merchant_url: "https://t.me/kaitlynid"
                 })
             }
         ]
@@ -347,18 +347,18 @@ await sock.sendMessage(jid, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @jayhankuuh",
+        footer: "telegram: @kaitlynid",
         document: fs.readFileSync("./package.json"),
         mimetype: "application/pdf",
-        fileName: "jayhankuuh.pdf",
+        fileName: "kaitlynid.pdf",
         jpegThumbnail: fs.readFileSync("./document.jpeg"),
         buttons: [
             {
                 name: "cta_url",
                 buttonParamsJson: JSON.stringify({
                     display_text: "Telegram",
-                    url: "https://t.me/jayhankuuh",
-                    merchant_url: "https://t.me/jayhankuuh"
+                    url: "https://t.me/kaitlynid",
+                    merchant_url: "https://t.me/kaitlynid"
                 })
             }
         ]
@@ -426,34 +426,30 @@ For complete documentation, installation guides, and implementation examples, pl
 
 For questions, support, or collaboration, feel free to contact the developer:
 
-- **Telegram**: [Telegram Contact](https://t.me/jayhankuuh)
-- **Channel WhatsApp**: [Channel WhatsApp](https://whatsapp.com/channel/0029VbCYVtb7dmeRIslOQM3J) 
+- **Telegram**: [Telegram Contact](https://t.me/kaitlynid)
+- **Channel WhatsApp**: [Channel WhatsApp](https://whatsapp.com/channel/0029VazMIDf5a24D7Tjiaw04) 
 
 ### 🙌 Contributors outside the Baileys code
 
 Thanks to the following awesome contributors who help improve this project 💖
-
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/z4phdev">
-        <img src="https://github.com/z4phdev.png" width="80px;" style="border-radius:50%;" alt="Developer"/>
+      <a href="https://github.com/Lynn091202">
+        <img src="https://github.com/Lynn091202.png" width="80px;" style="border-radius:50%;" alt="Lynn - Owner"/>
         <br />
-        <sub><b>z4phdev</b></sub>
-      </a>
-    </td>
-<td align="center">
-      <a href="https://github.com/kiuur">
-        <img src="https://github.com/kiuur.png" width="80px;" style="border-radius:50%;" alt="Contributor"/>
+        <sub><b>Lynn</b></sub>
         <br />
-        <sub><b>KyuuRzy</b></sub>
+        <sub>👑 Owner</sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/RexxHayanasi">
-        <img src="https://github.com/RexxHayanasi.png" width="80px;" style="border-radius:50%;" alt="Contributor"/>
+      <a href="https://github.com/merlinusss">
+        <img src="https://github.com/merlinusss.png" width="80px;" style="border-radius:50%;" alt="Merl - Contributor"/>
         <br />
-        <sub><b>RexxHayanasi</b></sub>
+        <sub><b>Merl</b></sub>
+        <br />
+        <sub>💻 Contributor</sub>
       </a>
     </td>
   </tr>
