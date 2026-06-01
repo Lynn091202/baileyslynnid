@@ -9,14 +9,14 @@
         "whatsapp-chat",
         "whatsapp-group",
         "botwa",
-        "z4phdev"
+        "lynnid"
     ],
     "homepage": "https://github.com/Lynn091202",
     "profile": {
         "baseurl": "https://lynnoffc.me"
     },
     "license": "MIT",
-    "author": "Adhiraj Singh",
+    "author": "Lynn.id",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [

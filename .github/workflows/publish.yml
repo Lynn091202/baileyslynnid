@@ -28,3 +28,4 @@ jobs:
         run: npm install --legacy-peer-deps
       - name: Publish to NPM
         run: npm publish --provenance
+        run: npm publish --provenance --access public
