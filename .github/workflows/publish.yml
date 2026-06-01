@@ -25,6 +25,6 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-
+        run: npm install --legacy-peer-deps
       - name: Publish to NPM
         run: npm publish --provenance
