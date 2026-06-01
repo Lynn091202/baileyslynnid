@@ -440,7 +440,7 @@ Thanks to the following awesome contributors who help improve this project 💖
         <br />
         <sub><b>Lynn</b></sub>
         <br />
-        <sub>👑 Owner</sub>
+        <p>👑 Owner</p>
       </a>
     </td>
     <td align="center">
@@ -449,7 +449,7 @@ Thanks to the following awesome contributors who help improve this project 💖
         <br />
         <sub><b>Merl</b></sub>
         <br />
-        <sub>💻 Contributor</sub>
+        <p>💻 Contributor</p>
       </a>
     </td>
   </tr>
