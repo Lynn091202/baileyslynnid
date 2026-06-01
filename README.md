@@ -440,8 +440,8 @@ Thanks to the following awesome contributors who help improve this project 💖
         <br />
         <sub><b>Lynn</b></sub>
         <br />
-        <p>👑 Owner</p>
       </a>
+      <sub>👑 Owner</sub>
     </td>
     <td align="center">
       <a href="https://github.com/merlinusss">
@@ -449,8 +449,8 @@ Thanks to the following awesome contributors who help improve this project 💖
         <br />
         <sub><b>Merl</b></sub>
         <br />
-        <p>💻 Contributor</p>
       </a>
+      <sub>💻 Contributor</sub>
     </td>
   </tr>
 </table>
